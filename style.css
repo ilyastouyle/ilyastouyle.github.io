@@ -1,18 +1,13 @@
 body{
 	font-family: "main";
 	text-align: center;
-	background-color: #95a5a6;
-	color: #34495e;
+	background-color: #0c2461;
+	color: #e58e26;
 }
 header h1{
-	font-family: "logofont";
-	color: #2c3e50;
+	padding-top: 25px;
 }
 @font-face {
   font-family: main;
-  src: url(Fonts/Swansea.ttf);
-}
-@font-face {
-  font-family: logofont;
-  src: url(Fonts/Amsterdam.ttf);
+  src: url(Fonts/BillionDreams.ttf);
 }
