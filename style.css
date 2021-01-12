@@ -1,12 +1,12 @@
 body{
 	font-family: "main";
 	text-align: center;
-	background-color: "#95a5a6";
-	color: "#34495e";
+	background-color: #95a5a6;
+	color: #34495e;
 }
 header h1{
 	font-family: "logofont";
-	color: "#2c3e50";
+	color: #2c3e50;
 }
 @font-face {
   font-family: main;
