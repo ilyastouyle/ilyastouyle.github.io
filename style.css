@@ -3,5 +3,9 @@ body{
 }
 @font-face {
   font-family: main;
-  src: url(Fonts/Swansea);
+  src: url(Fonts/Swansea.ttf);
+}
+@font-face {
+  font-family: logofont;
+  src: url(Fonts/Amsterdam.ttf);
 }
